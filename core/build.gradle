@@ -46,7 +46,6 @@ dependencies {
     api "com.android.support:support-fragment:27.0.2"
     api "com.google.android.material:material:1.4.0"
     api "com.android.support:animated-vector-drawable:27.0.2"
-//    api rootProject.ext.support["junit"]
     api "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0"
     api "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0"
     api "androidx.lifecycle:lifecycle-extensions:2.0.0"
