@@ -1,0 +1,3 @@
+rootProject.name = "TestRemotely"
+include ':app'
+include ':core'
